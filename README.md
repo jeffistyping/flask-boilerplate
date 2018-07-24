@@ -18,7 +18,8 @@ Note: MySQL-Python needs [Microsoft C++ Compiler for Python](https://www.microso
 Then, add MySQL to PATH
 
 Login to MySQL:
-```mysql -u root -p
+```
+mysql -u root -p
 [PASSWORD]
 ```
 
